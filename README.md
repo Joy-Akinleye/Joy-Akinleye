@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Joy-Akinleye
-- 👀 I’m an apspiring Fullstack website Developer
+- 👀 I’m an aspiring Fullstack website Developer
 - 🌱 I’m currently learning JavaScript
 - 📫 You can reach me on Twitter: @MidejoyAkinleye send me a Mail: joyintech50@gmail.com
 - 😄 Pronouns: SHE
