@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Joy-Akinleye
-- 👀 Frontend Engineer
+- 👀 Frontend Developer
 - 🌱 I’m an aspiring Fullstack website Developer
 - 📫 You can reach me on Twitter: @MidejoyAkinleye send me a Mail: joyintech50@gmail.com
 - 😄 Pronouns: SHE
